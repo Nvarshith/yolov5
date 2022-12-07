@@ -1,6 +1,6 @@
 train: /kaggle/working/Road-Damage/Data/train/ 
-test: /kaggle/working/Road-Damage/Data/test/
-val: 
+val: /kaggle/working/Road-Damage/Data/test/
+test: 
 
 # number of classes
 nc: 4
