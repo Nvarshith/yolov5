@@ -1,5 +1,5 @@
-train: /kaggle/working/Road-Damage/Data/train/ 
-val: /kaggle/working/Road-Damage/Data/test/
+train: /kaggle/input/my-road-damage/Data/train/ 
+val: /kaggle/input/my-road-damage/Data/test/
 test: 
 
 # number of classes
